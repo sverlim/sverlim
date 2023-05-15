@@ -32,3 +32,6 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 #### Quick note on temporary interaction limits
 In an effort to reduce spammy behavior, we are instituting temporary interaction limits to bar accounts less than 24hrs-old from participating in the `github.com/community` Discussions space. This experiment is running from Feb 22, 2023 to March 22, 2023.
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
