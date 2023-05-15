@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/baner_opp.png" alt="my banner"></a>
+  <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/banner_opp.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
