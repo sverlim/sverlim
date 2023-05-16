@@ -13,14 +13,6 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pe.linkedin.com/in/levi-arista)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://es.stackoverflow.com/users/78168/levi-arista)
-[![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://leviarista.github.io/resume)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/leviarista)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeviArista)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leviarista)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/levi.arista)
-
 
 Все що ми робимо, ми робимо лише за ради сервісу **`АЛМАЗНЕ СВЕРДЛІННЯ ™`**, сервісу надання послуг алмазного буріння в будівельних конструкція. Надалі по тексту - **`СЕРВІС`**.
 
@@ -32,7 +24,7 @@
 
 <h2>Платформа пошуку професійних помічників.</h2>
 
-<a href="https://github.com/sverlim/I-NEED-COMPANY"><img src="https://img.shields.io/badge/РЕПОЗИТОРІЙ%20-offline-red.svg"/></a>
+<a href="https://github.com/sverlim/I-NEED-COMPANY"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-online-green.svg"/></a>
 
 В певні періоди часу протягом року компанія відчуває дефіціт працівників. Були спроби розширення штату компанії до межі покриття цього дефіциту, але ми зіткнулися з проблемою забезпечення такої кількості працівників об’ємами робіт. Основний склад працівників компанії, що безпосередньо зайняті виконаням робіт з надання послуг є умовно стабільний, кожен має достатній рівень досвіду та знань для прийняття на себе обов’язків оператора. Виходячи з цього ми прийшли до висновку, що інколи нам потрібно залучення певної кількості помічників, для фактичного збільшення кількості ланок в регіоні.
 Для того щоб оперативно і в достатній кількості залучати помічників, саме за потрібними критеріями пошуку, єдиним рішенням було створення сервісу, сайту на якому будуть розміщенні анкети працівників яких влаштовує тимчасова зайнятість. Завдяки спеціалізованості такого сервісу ми вбачаємо рішення сезонного дефіциту кадрового потенціалу.
