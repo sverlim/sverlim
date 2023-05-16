@@ -4,7 +4,7 @@
 </p>
 
 <i><sub>Ми створюємо систему, щоб заповнити все,<br>
-  щоб більше нічого не було потрібно.</sub></i>
+  щоб в іншому не було потреби.</sub></i>
 
 <p align="center">
   <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/product.png" alt="my banner" height="300"></a>
