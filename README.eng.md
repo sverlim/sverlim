@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/banner_opp.png" alt="my banner"></a>
+  <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/product.png" alt="my banner" height="300"></a>
 </p>
 
 Everything we do, we do only on behalf of the "АЛМАЗНЕ СВЕРДЛІННЯ™" service, a service for providing diamond drilling services in construction structures. Hereafter in the text - "SERVICE".
