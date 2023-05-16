@@ -3,10 +3,8 @@
   <span>Українською</span> | <a href="https://github.com/sverlim/sverlim/blob/main/README.eng.md">English</a>
 </p>
 
-*<p align="left">
-ми створюємо систему, щоб заповнити все,
-  щоб більше нічого не було потрібно
-</p>*
+*ми створюємо систему, щоб заповнити все,
+  щоб більше нічого не було потрібно*
 
 <p align="center">
   <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/product.png" alt="my banner" height="300"></a>
