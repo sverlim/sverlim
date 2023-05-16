@@ -24,16 +24,14 @@
 <br><br><br><br>
 <h2>АЛМАЗНЕ СВЕРДЛІННЯ.</h2>
 
-Програмне забезпечення для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
-
 <sup>Додаток Android для клієнтів.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 <sup>Додаток Android для виконавців.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 <sup>Додаток IOS для клієнтів.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 
+Програмне забезпечення для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
 
 
-
-
+<br><br><br><br>
 <h2>Платформа пошуку професійних помічників.</h2>
 
 <sup>Сайт сервісу.</sup> <a href="https://github.com/sverlim/I-NEED-COMPANY"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-online-green.svg"/></a><br><br>
