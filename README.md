@@ -34,7 +34,7 @@
 <br><br><br><br>
 <h2>Платформа пошуку професійних помічників.</h2>
 
-<sup>Сайт сервісу, вихідний код.</sup> <a href="https://github.com/sverlim/I-NEED-COMPANY"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-online-green.svg"/></a><br><br>
+<sup>Сайт сервісу, вихідний код.</sup> <a href="https://github.com/sverlim/I-NEED-COMPANY"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 <sup>Додаток Android для помічників.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 <sup>Додаток IOS для помічників.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 
