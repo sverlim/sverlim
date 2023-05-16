@@ -1,6 +1,7 @@
 <p align="right">
   <span>English</span> |
-  <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs">Українською</a>
+  
+  <a href="https://github.com/sverlim/sverlim/blob/main/README.ua.md">Українською</a>
 </p>
 
 
