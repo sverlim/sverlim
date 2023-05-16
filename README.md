@@ -48,3 +48,6 @@
 
 
 
+<p align="center">
+  <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="images/banner_opp.png" alt="operator"></a>
+</p>
