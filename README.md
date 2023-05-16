@@ -22,6 +22,36 @@
 > _Багато репозиторіїв буде приховано, тому що знаходитимуться на не надто прийнятному вигляі для показу. Але ми будемо намагатися по можливосі донести інформацію про їх існування, призначення та зміст тієї розробки, та звичайно прикладатимемо максимум зусиль та приводитимемо у вигляд прийнятний для показу, аби чим швидше відкрити._
 
 
+<h2>Платформа АЛМАЗНЕ СВЕРДЛІННЯ. Мобільний додаток Android для клієнтів.</h2>
+
+<a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg?style=for-the-badge"/></a>
+
+Додаток для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
+
+
+<h2>Платформа АЛМАЗНЕ СВЕРДЛІННЯ. Мобільний додаток Android для виконавців.</h2>
+
+<a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg?style=for-the-badge"/></a>
+
+Додаток для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
+
+
+<h2>Платформа АЛМАЗНЕ СВЕРДЛІННЯ. Мобільний додаток IOS для клієнтів.</h2>
+
+<a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg?style=for-the-badge"/></a>
+
+Додаток для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
+
+
+<h2>Платформа АЛМАЗНЕ СВЕРДЛІННЯ. Мобільний додаток IOS для виконавців.</h2>
+
+<a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg?style=for-the-badge"/></a>
+
+Додаток для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
+
+
+
+
 <h2>Платформа пошуку професійних помічників.</h2>
 
 <a href="https://github.com/sverlim/I-NEED-COMPANY"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-online-green.svg?style=for-the-badge"/></a>
@@ -31,56 +61,4 @@
 
 
 
-GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
 
-### Quick Start
-
-* [Discussions & Product Feedback](https://github.com/orgs/community/discussions)
-* [Join Global Campus](https://education.github.com/benefits?type=student) 
-* [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
-* [Student Developer Pack Application & FAQs](https://github.com/orgs/community/discussions/17814)
-
-### Documentation
-
-* [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-* [GitHub Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
-
-### Other Ways to Participate
-
-* [GitHub Stars Program](https://stars.github.com/program/)
-* [GitHub Events](https://github.com/events)
-* [GitHub Blog](https://github.blog/)
-* [The ReadME Project & Podcast](https://github.com/readme)
-* [GitHub YouTube Channel](https://www.youtube.com/github)
-
-#### Quick note on 3rd party integrations
-> _Due to an overwhelming number of suspicious requests from community members for 3rd party apps and integrations to this org, we've turned off "Allow integration requests from outside collaborators"._
-
-#### Quick note on temporary interaction limits
-In an effort to reduce spammy behavior, we are instituting temporary interaction limits to bar accounts less than 24hrs-old from participating in the `github.com/community` Discussions space. This experiment is running from Feb 22, 2023 to March 22, 2023.
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
-
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-</picture>
