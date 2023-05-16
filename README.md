@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/product.png" alt="my banner" height="200"></a>
+  <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/product.png" alt="my banner" height="300"></a>
 </p>
 
 Все що ми робимо, ми робимо лише за ради сервісу **`АЛМАЗНЕ СВЕРДЛІННЯ ™`**, сервісу надання послуг алмазного буріння в будівельних конструкція. Надалі по тексту - **`СЕРВІС`**.
