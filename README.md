@@ -18,9 +18,6 @@
 > _Багато репозиторіїв буде приховано, тому що знаходитимуться на не надто прийнятному вигляі для показу. Але ми будемо намагатися по можливосі донести інформацію про їх існування, призначення та зміст тієї розробки, та звичайно прикладатимемо максимум зусиль та приводитимемо у вигляд прийнятний для показу, аби чим швидше відкрити._
 
 
-
-### Платформа пошуку професійних помічників.
-
 <h2>Платформа пошуку професійних помічників.</h2>
 
 GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
