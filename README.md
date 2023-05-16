@@ -1,7 +1,5 @@
 <p align="right">
-  <span>Українською</span> |
-  
-  <a href="https://github.com/sverlim/sverlim/blob/main/README.eng.md">English</a>
+  <span>Українською</span> | <a href="https://github.com/sverlim/sverlim/blob/main/README.eng.md">English</a>
 </p>
 
 
