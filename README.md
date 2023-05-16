@@ -3,7 +3,7 @@
   <span>Українською</span> | <a href="https://github.com/sverlim/sverlim/blob/main/README.eng.md">English</a>
 </p>
 
-*ми створюємо систему, щоб заповнити все,
+*ми створюємо систему, щоб заповнити все,<br>
   щоб більше нічого не було потрібно*
 
 <p align="center">
