@@ -26,7 +26,7 @@
 
 Програмне забезпечення для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
 
-Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
+<sup>Додаток Android для клієнтів.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
