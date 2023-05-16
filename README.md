@@ -1,4 +1,10 @@
 <p align="center">
+  <span>English</span> |
+  <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs">Українською</a>
+</p>
+
+
+<p align="center">
   <a href="https://sverlim.software/" target="_blank" rel="noreferrer"><img src="visa_direct/banner_opp.png" alt="my banner"></a>
 </p>
 
