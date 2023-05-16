@@ -26,10 +26,10 @@
 
 Програмне забезпечення для реалізації можливості взаємодії між клієнтами сервісу та виконавцями послуг.
 
-Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a>
-Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a>
-Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a>
-Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a>
+Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br>
+Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br>
+Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br>
+Додаток Android для клієнтів. <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br>
 
 <h2>АЛМАЗНЕ СВЕРДЛІННЯ: Додаток Android для виконавців.</h2>
 
