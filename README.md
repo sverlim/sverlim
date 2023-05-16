@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <span>English</span> |
   <a href="https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs">Українською</a>
 </p>
