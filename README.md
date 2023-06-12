@@ -24,7 +24,7 @@
 <br><br><br>
 <h2>АЛМАЗНЕ СВЕРДЛІННЯ.</h2>
 
-<sup>Додаток Android для клієнтів.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
+<sup>Додаток Android для клієнтів.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-online-green.svg"/></a><br><br>
 <sup>Додаток Android для виконавців.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 <sup>Додаток IOS для клієнтів.</sup> <a href="https://github.com/sverlim/"><img src="https://img.shields.io/badge/GitHub%20РЕПОЗИТОРІЙ-offline-red.svg"/></a><br><br>
 
